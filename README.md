@@ -1,4 +1,4 @@
 project-euler-in-c
 ==================
 
-solutions of the problems of projecteuler.net
+It contains the solutions of the problems of projecteuler.net in C language.
